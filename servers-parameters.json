@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "iac-final-project"
+	},
+    {
+		"ParameterKey": "EC2ImageId",
+		"ParameterValue": "ami-0149b2da6ceec4bb0"
+	},
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t3.medium"
+    }
+]
